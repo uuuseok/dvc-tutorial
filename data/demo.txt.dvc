@@ -1,0 +1,4 @@
+outs:
+- md5: 33b051d0058d645e334a7056e253e1c5
+  size: 9
+  path: demo.txt
